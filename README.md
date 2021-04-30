@@ -15,4 +15,8 @@ relationship between them;<br>
  Our proposal increases the number of recommended products from categories which the active
 user has not yet purchased;<br>
  The proposed system is scalable, which means that it maintains good level performance when the
-workload increases.<br>
+workload increases.<br><br><br>
+
+# link for the original dataset : 
+https://jmcauley.ucsd.edu/data/amazon/<br>
+(be sure to download the 5-core data --> mean the user have at least 5 reviews )<br>
