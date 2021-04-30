@@ -29,4 +29,4 @@ https://drive.google.com/file/d/1nmhndcFa5n61ND0vusfFL143aUB_eH3_/view?usp=shari
 
 # Overview of the hybrid ontology-based approach.
 
-![](image/face.gif)
+![](images/6B37C6E3-99F0-43BC-9763-3FFB358726B8.jpeg)
