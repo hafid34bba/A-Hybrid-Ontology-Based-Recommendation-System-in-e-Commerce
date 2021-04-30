@@ -8,11 +8,11 @@ That's not my own article but i built similair system <br><br><br>
 
 The main contributions of this work are the following:<br>
  We propose a new e-commerce recommendation system, which combines collaborative filtering
-with ontology-based recommenders;
+with ontology-based recommenders;<br>
  The proposed recommendation system considers not only the users with similar preferences to
 the active user but also obtains knowledge about the user, their neighbours, products and the
-relationship between them;
+relationship between them;<br>
  Our proposal increases the number of recommended products from categories which the active
-user has not yet purchased;
+user has not yet purchased;<br>
  The proposed system is scalable, which means that it maintains good level performance when the
-workload increases.
+workload increases.<br>
