@@ -19,4 +19,10 @@ workload increases.<br><br><br>
 
 # link for the original dataset : 
 https://jmcauley.ucsd.edu/data/amazon/<br>
-(be sure to download the 5-core data --> mean the user have at least 5 reviews )<br>
+(be sure to download the 5-core data --> mean the user have at least 5 reviews )<br><br>
+
+# links for the data after preprocessing 
+
+https://drive.google.com/file/d/1hlH-9_QW2h4crFFULcWvAThk6hi1MKIY/view?usp=sharing<br><br>
+
+https://drive.google.com/file/d/1nmhndcFa5n61ND0vusfFL143aUB_eH3_/view?usp=sharing
