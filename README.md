@@ -25,4 +25,8 @@ https://jmcauley.ucsd.edu/data/amazon/<br>
 
 https://drive.google.com/file/d/1hlH-9_QW2h4crFFULcWvAThk6hi1MKIY/view?usp=sharing<br><br>
 
-https://drive.google.com/file/d/1nmhndcFa5n61ND0vusfFL143aUB_eH3_/view?usp=sharing
+https://drive.google.com/file/d/1nmhndcFa5n61ND0vusfFL143aUB_eH3_/view?usp=sharing<br><br>
+
+# Overview of the hybrid ontology-based approach.
+
+![](image/face.gif)
